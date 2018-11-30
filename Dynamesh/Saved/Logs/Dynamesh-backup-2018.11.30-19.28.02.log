@@ -1,0 +1,1640 @@
+﻿Log file open, 11/30/18 16:21:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Dynamesh
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.531389
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.193s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 660
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Program Files (x86)/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.11.30-19.21.40:891][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.11.30-19.21.40:891][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.11.30-19.21.40:891][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Engine.ini]
+[2018.11.30-19.21.40:891][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Engine.ini]
+[2018.11.30-19.21.40:892][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Engine.ini]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Engine.ini]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.11.30-19.21.40:892][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Engine.ini]
+[2018.11.30-19.21.40:892][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Engine.ini]
+[2018.11.30-19.21.40:897][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.30-19.21.40:897][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.30-19.21.40:898][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.30-19.21.40:898][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.30-19.21.40:898][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.30-19.21.40:926][  0]LogHAL: Display: Platform has ~ 12 GB [12824100864 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.11.30-19.21.40:926][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.30-19.21.40:926][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2018.11.30-19.21.40:926][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2018.11.30-19.21.40:927][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.11.30-19.21.40:932][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.11.30-19.21.40:932][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Uwpgf/Dynamesh/Saved/Config/Windows/Engine.ini]
+[2018.11.30-19.21.40:932][  0]LogInit: Computer: DESKTOP-VGJIUES
+[2018.11.30-19.21.40:932][  0]LogInit: User: Bruno
+[2018.11.30-19.21.40:932][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.30-19.21.40:932][  0]LogInit: High frequency timer resolution =3.312792 MHz
+[2018.11.30-19.21.40:933][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.11.30-19.21.40:933][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.30-19.21.40:933][  0]LogMemory: Process Physical Memory: 103.39 MB used, 103.39 MB peak
+[2018.11.30-19.21.40:933][  0]LogMemory: Process Virtual Memory: 89.99 MB used, 89.99 MB peak
+[2018.11.30-19.21.40:933][  0]LogMemory: Physical Memory: 3480.76 MB used,  8749.26 MB free, 12230.02 MB total
+[2018.11.30-19.21.40:933][  0]LogMemory: Virtual Memory: 516.90 MB used,  134217208.00 MB free, 134217728.00 MB total
+[2018.11.30-19.21.41:611][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.11.30-19.21.41:611][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.11.30-19.21.43:007][  0]LogStreaming: Display: Took  1.396s to InitEngineTextLocalization.
+[2018.11.30-19.21.43:007][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.30-19.21.43:887][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.30-19.21.43:887][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.30-19.21.46:333][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.30-19.21.46:333][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.30-19.21.46:394][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2018.11.30-19.21.46:394][  0]LogD3D11RHI:       1998/0/6115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.30-19.21.46:395][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.30-19.21.46:395][  0]LogD3D11RHI:       0/0/6115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.30-19.21.46:395][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.30-19.21.46:398][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.30-19.21.46:398][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.30-19.21.46:398][  0]LogWindows: EnumDisplayDevices:
+[2018.11.30-19.21.46:399][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2018.11.30-19.21.46:399][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:1)
+[2018.11.30-19.21.46:399][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.11.30-19.21.46:399][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.11.30-19.21.46:399][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.30-19.21.46:399][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2018.11.30-19.21.46:399][  0]LogD3D11RHI:   Driver Version: 417.01 (internal:25.21.14.1701, unified:417.01)
+[2018.11.30-19.21.46:399][  0]LogD3D11RHI:      Driver Date: 11-15-2018
+[2018.11.30-19.21.46:399][  0]LogRHI: Texture pool is 1398 MB (70% of 1998 MB)
+[2018.11.30-19.21.46:445][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.30-19.21.46:493][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.30-19.21.47:409][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.30-19.21.47:459][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.30-19.21.47:493][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.30-19.21.47:526][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.30-19.21.47:568][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.30-19.21.47:597][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.30-19.21.47:621][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.30-19.21.47:674][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.30-19.21.47:692][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.30-19.21.47:815][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:815][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:815][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:815][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:815][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:815][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:815][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:815][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:816][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-19.21.47:838][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.30-19.21.47:962][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.30-19.21.47:962][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.30-19.21.48:016][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.30-19.21.48:016][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.30-19.21.48:044][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.30-19.21.48:071][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.30-19.21.48:095][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.30-19.21.48:129][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.30-19.21.48:201][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.30-19.21.48:201][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.30-19.21.48:201][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.30-19.21.48:953][  0]LogShaderCompilers: Guid format shader working directory is 29 characters bigger than the processId version (E:/Uwpgf/Dynamesh/Intermediate/Shaders/WorkingDirectory/9484/).
+[2018.11.30-19.21.48:953][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bruno/AppData/Local/Temp/UnrealShaderWorkingDir/9B4D617F4B4A2A90B1F4339EEA181383/'.
+[2018.11.30-19.21.48:954][  0]LogXGEController: Cleaning working directory: C:/Users/Bruno/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.30-19.21.48:955][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.30-19.21.48:955][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.30-19.21.48:955][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.30-19.21.50:845][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.30-19.21.51:315][  0]LogDerivedDataCache: Loaded boot cache 0.47s 87MB C:/Users/Bruno/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.30-19.21.51:315][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bruno/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.11.30-19.21.51:316][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Uwpgf/Dynamesh/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.30-19.21.51:316][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.30-19.21.51:316][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Uwpgf/Dynamesh/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.30-19.21.51:316][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.30-19.21.51:399][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.30-19.21.51:437][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2018.11.30-19.21.51:450][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bruno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.30-19.21.51:450][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.30-19.21.51:450][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.30-19.21.51:476][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.30-19.21.51:477][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.30-19.21.51:541][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.30-19.21.52:100][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2018.11.30-19.21.52:508][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.30-19.21.53:880][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.30-19.21.54:107][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.30-19.21.54:107][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.30-19.21.54:108][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.30-19.21.54:108][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.30-19.21.54:248][  0]LogNetVersion: Dynamesh 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 535161078)
+[2018.11.30-19.21.56:062][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 1 prioritized culture(s) in 0.056823 seconds
+[2018.11.30-19.21.56:068][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.11.30-19.21.56:068][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.11.30-19.21.56:068][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.30-19.22.04:354][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.30-19.22.04:399][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.30-19.22.05:886][  0]SourceControl: Source control is disabled
+[2018.11.30-19.22.05:887][  0]SourceControl: Source control is disabled
+[2018.11.30-19.22.06:084][  0]SourceControl: Source control is disabled
+[2018.11.30-19.22.06:141][  0]SourceControl: Source control is disabled
+[2018.11.30-19.22.07:653][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.30-19.22.07:961][  0]LogOcInput: OculusInput pre-init called
+[2018.11.30-19.22.11:654][  0]LogEngine: Initializing Engine...
+[2018.11.30-19.22.11:655][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.30-19.22.11:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.30-19.22.11:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.30-19.22.11:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.30-19.22.11:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.30-19.22.12:249][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.30-19.22.12:380][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.30-19.22.12:398][  0]LogInit: XAudio2 using 'Alto-falantes (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-19.22.12:437][  0]LogInit: FAudioDevice initialized.
+[2018.11.30-19.22.12:437][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.30-19.22.12:618][  0]LogDerivedDataCache: Saved boot cache 0.18s 87MB C:/Users/Bruno/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.30-19.22.12:623][  0]LogInit: Texture streaming: Enabled
+[2018.11.30-19.22.12:732][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.30-19.22.12:732][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={40C5E92F-4A2C-553A-DA8B-05B33B425925}
+[2018.11.30-19.22.12:732][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={58BD5FF4-4FDE-6959-AF13-2790271375B5}
+[2018.11.30-19.22.12:762][  0]LogInit: Transaction tracking system initialized
+[2018.11.30-19.22.12:884][  0]BlueprintLog: New page: Editor Load
+[2018.11.30-19.22.13:668][  0]LocalizationService: Localization service is disabled
+[2018.11.30-19.22.16:173][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.30-19.22.16:173][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.30-19.22.16:173][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.30-19.22.16:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.30-19.22.16:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.30-19.22.16:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.30-19.22.16:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.30-19.22.16:613][  0]LogFileCache: Scanning file cache for directory 'E:/Uwpgf/Dynamesh/Content/' took 0.03s
+[2018.11.30-19.22.18:873][  0]SourceControl: Source control is disabled
+[2018.11.30-19.22.18:922][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.30-19.22.18:961][  0]LogSlate: Took 0.013512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.30-19.22.21:836][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.11.30-19.22.21:836][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.30-19.22.21:838][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.30-19.22.21:845][  0]Cmd: MAP LOAD FILE="E:/Uwpgf/Dynamesh/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.30-19.22.21:870][  0]LightingResults: New page: Lighting Build
+[2018.11.30-19.22.21:873][  0]MapCheck: New page: Map Check
+[2018.11.30-19.22.21:873][  0]LightingResults: New page: Lighting Build
+[2018.11.30-19.22.22:687][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.11.30-19.22.22:687][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading E:/Uwpgf/Dynamesh/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.11.30-19.22.22:687][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.11.30-19.22.22:871][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.11.30-19.22.22:871][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading E:/Uwpgf/Dynamesh/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.11.30-19.22.22:871][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.11.30-19.22.22:881][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.11.30-19.22.22:881][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.11.30-19.22.22:882][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.11.30-19.22.22:882][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.11.30-19.22.22:958][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.11.30-19.22.22:958][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.11.30-19.22.22:958][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.11.30-19.22.22:958][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.11.30-19.22.23:478][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.30-19.22.23:577][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.30-19.22.23:601][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.30-19.22.23:601][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2018.11.30-19.22.23:601][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.756
+[2018.11.30-19.22.23:792][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-19.22.23:801][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-19.22.23:809][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-19.22.23:816][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-19.22.25:626][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.30-19.22.25:682][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Dynamesh
+[2018.11.30-19.22.25:682][  0]LogTemp: CWD: F:\Program Files (x86)\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.11.30-19.22.25:682][  0]LogTemp: Initial Dir: F:\Program Files (x86)\UE_4.21
+[2018.11.30-19.22.25:682][  0]LogTemp: Env CWD: F:\Program Files (x86)\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.11.30-19.22.25:682][  0]LogTemp: BranchPath = DESKTOP-VGJIUES/F/Program Files (x86)/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-VGJIUES/F/Program Files (x86)/UE_4.21/Engine/Binaries
+[2018.11.30-19.22.25:682][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Bruno\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.30-19.22.25:682][  0]LogCollectionManager: Loaded 0 collections in 0.000864 seconds
+[2018.11.30-19.22.25:709][  0]LogFileCache: Scanning file cache for directory 'E:/Uwpgf/Dynamesh/Saved/Collections/' took 0.01s
+[2018.11.30-19.22.25:709][  0]LogFileCache: Scanning file cache for directory 'E:/Uwpgf/Dynamesh/Content/Developers/Bruno/Collections/' took 0.00s
+[2018.11.30-19.22.25:709][  0]LogFileCache: Scanning file cache for directory 'E:/Uwpgf/Dynamesh/Content/Collections/' took 0.01s
+[2018.11.30-19.22.25:709][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.30-19.22.25:719][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2717 classes and 657 folders.
+[2018.11.30-19.22.25:724][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.30-19.22.25:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.25:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.26:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.26:016][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.26:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.26:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.26:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.26:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.26:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.26:073][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-19.22.26:715][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.30-19.22.26:742][  0]LogSlate: Took 0.022954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.30-19.22.26:930][  0]LogRenderer: Reallocating scene render targets to support 1144x904 Format 9 NumSamples 1 (Frame:1).
+[2018.11.30-19.22.27:068][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.30-19.22.27:068][  0]LogLoad: (Engine Initialization) Total time: 63.49 seconds
+[2018.11.30-19.22.27:068][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.30-19.22.27:134][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.11.30-19.22.27:137][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.30-19.22.27:383][  2]LogAssetRegistry: Asset discovery search completed in 35.3042 seconds
+[2018.11.30-19.22.27:385][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.30-19.22.27:385][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.11.30-19.22.28:253][ 78]LogSlate: Took 0.005110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.30-19.22.28:753][124]LogSlate: Window 'Message Log' being destroyed
+[2018.11.30-19.22.28:757][124]LogSlate: Window 'Message Log' being destroyed
+[2018.11.30-19.22.31:892][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-19.22.31:935][479]LogSlate: Took 0.041474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.30-19.22.31:963][479]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.30-19.22.36:938][845]LogSlate: Window 'Content Browser' being destroyed
+[2018.11.30-19.23.36:134][591]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Apollon Arquivos/Sophia.fbx)
+[2018.11.30-19.23.36:211][591]LogFbx: Loading FBX Scene from E:/Apollon Arquivos/Sophia.fbx
+[2018.11.30-19.23.36:308][591]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.30-19.23.42:788][591]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node START [Eyelashes] 
+[2018.11.30-19.23.42:824][591]LogFbx: 	Total Deformer Count 29034112.
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node END [Eyelashes]
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node START [default] 
+[2018.11.30-19.23.42:824][591]LogFbx: 	Total Deformer Count 1551594096.
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node END [default]
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node START [Body] 
+[2018.11.30-19.23.42:824][591]LogFbx: 	Total Deformer Count 1565866832.
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node END [Body]
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node START [Shoes] 
+[2018.11.30-19.23.42:824][591]LogFbx: 	Total Deformer Count 1565866832.
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node END [Shoes]
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node START [Tops] 
+[2018.11.30-19.23.42:824][591]LogFbx: 	Total Deformer Count 1565866832.
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node END [Tops]
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node START [Hair] 
+[2018.11.30-19.23.42:824][591]LogFbx: 	Total Deformer Count 1565866832.
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:824][591]LogFbx: =================================================
+[2018.11.30-19.23.42:824][591]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.11.30-19.23.42:824][591]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.11.30-19.23.42:824][591]LogFbx: Dumping Node END [Hair]
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node START [Eyelashes] 
+[2018.11.30-19.23.42:825][591]LogFbx: 	Total Deformer Count 29035584.
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node END [Eyelashes]
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node START [default] 
+[2018.11.30-19.23.42:825][591]LogFbx: 	Total Deformer Count 1551594152.
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node END [default]
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node START [Body] 
+[2018.11.30-19.23.42:825][591]LogFbx: 	Total Deformer Count 1565866832.
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node END [Body]
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node START [Shoes] 
+[2018.11.30-19.23.42:825][591]LogFbx: 	Total Deformer Count 1565866832.
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node END [Shoes]
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node START [Tops] 
+[2018.11.30-19.23.42:825][591]LogFbx: 	Total Deformer Count 1565866832.
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node END [Tops]
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node START [Hair] 
+[2018.11.30-19.23.42:825][591]LogFbx: 	Total Deformer Count 1565866832.
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.42:825][591]LogFbx: =================================================
+[2018.11.30-19.23.42:825][591]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.11.30-19.23.42:825][591]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.11.30-19.23.42:825][591]LogFbx: Dumping Node END [Hair]
+[2018.11.30-19.23.42:827][591]LogFbx: Valid bind pose for Pose (BindPose) - Eyelashes
+[2018.11.30-19.23.42:982][591]LogMaterial: Warning: Material /Game/Sophia/Mesh/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.11.30-19.23.42:987][591]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.23.43:048][591]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.30-19.23.43:048][591]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.30-19.23.43:048][591]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-19.23.43:048][591]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-19.23.43:050][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Body_Diffuse'
+[2018.11.30-19.23.43:050][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Body_Diffuse'
+[2018.11.30-19.23.43:239][591]LogTexture: Display: Building textures: Sophia_Body_Diffuse (AutoDXT, 2048X2048)
+[2018.11.30-19.23.44:092][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Body_Specular'
+[2018.11.30-19.23.44:092][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Body_Specular'
+[2018.11.30-19.23.44:212][591]LogTexture: Display: Building textures: Sophia_Body_Specular (AutoDXT, 2048X2048)
+[2018.11.30-19.23.45:011][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Body_Gloss'
+[2018.11.30-19.23.45:011][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Body_Gloss'
+[2018.11.30-19.23.45:140][591]LogTexture: Display: Building textures: Sophia_Body_Gloss (AutoDXT, 2048X2048)
+[2018.11.30-19.23.46:323][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Body_Normal'
+[2018.11.30-19.23.46:323][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Body_Normal'
+[2018.11.30-19.23.46:488][591]LogTexture: Display: Building textures: Sophia_Body_Normal (BC5, 2048X2048)
+[2018.11.30-19.23.46:776][591]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-19.23.46:790][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Body_Opacity'
+[2018.11.30-19.23.46:791][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Body_Opacity'
+[2018.11.30-19.23.46:856][591]LogTexture: Display: Building textures: Sophia_Body_Opacity (AutoDXT, 2048X2048)
+[2018.11.30-19.23.47:097][591]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.23.47:221][591]LogFbx: Triangulating skeletal mesh Eyelashes
+[2018.11.30-19.23.47:227][591]LogFbx: Triangulating skeletal mesh default
+[2018.11.30-19.23.47:275][591]LogFbx: Triangulating skeletal mesh Body
+[2018.11.30-19.23.48:007][591]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.11.30-19.23.48:008][591]LogMaterial: Warning: Material /Game/Sophia/Mesh/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.11.30-19.23.48:011][591]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2018.11.30-19.23.48:054][591]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.11.30-19.23.48:055][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Shoes_Diffuse'
+[2018.11.30-19.23.48:055][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Shoes_Diffuse'
+[2018.11.30-19.23.48:098][591]LogTexture: Display: Building textures: Sophia_Shoes_Diffuse (AutoDXT, 1024X1024)
+[2018.11.30-19.23.48:443][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Shoes_Specular'
+[2018.11.30-19.23.48:443][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Shoes_Specular'
+[2018.11.30-19.23.48:472][591]LogTexture: Display: Building textures: Sophia_Shoes_Specular (AutoDXT, 1024X1024)
+[2018.11.30-19.23.48:558][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Shoes_Gloss'
+[2018.11.30-19.23.48:559][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Shoes_Gloss'
+[2018.11.30-19.23.48:595][591]LogTexture: Display: Building textures: Sophia_Shoes_Gloss (AutoDXT, 1024X1024)
+[2018.11.30-19.23.48:751][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Shoes_Normal'
+[2018.11.30-19.23.48:751][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Shoes_Normal'
+[2018.11.30-19.23.48:798][591]LogTexture: Display: Building textures: Sophia_Shoes_Normal (BC5, 1024X1024)
+[2018.11.30-19.23.48:867][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Shoes_Opacity'
+[2018.11.30-19.23.48:867][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Shoes_Opacity'
+[2018.11.30-19.23.48:885][591]LogTexture: Display: Building textures: Sophia_Shoes_Opacity (AutoDXT, 1024X1024)
+[2018.11.30-19.23.48:946][591]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2018.11.30-19.23.49:010][591]LogFbx: Triangulating skeletal mesh Shoes
+[2018.11.30-19.23.49:085][591]LogMaterial: Warning: Material /Game/Sophia/Mesh/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.11.30-19.23.49:089][591]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2018.11.30-19.23.49:136][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Top_Diffuse'
+[2018.11.30-19.23.49:137][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Top_Diffuse'
+[2018.11.30-19.23.49:183][591]LogTexture: Display: Building textures: Sophia_Top_Diffuse (AutoDXT, 1024X1024)
+[2018.11.30-19.23.49:502][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Top_Specular'
+[2018.11.30-19.23.49:502][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Top_Specular'
+[2018.11.30-19.23.49:527][591]LogShaderCompilers: Display: Shaders left to compile 214
+[2018.11.30-19.23.49:527][591]LogTexture: Display: Building textures: Sophia_Top_Specular (AutoDXT, 1024X1024)
+[2018.11.30-19.23.49:582][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Top_Gloss'
+[2018.11.30-19.23.49:583][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Top_Gloss'
+[2018.11.30-19.23.49:617][591]LogTexture: Display: Building textures: Sophia_Top_Gloss (AutoDXT, 1024X1024)
+[2018.11.30-19.23.49:734][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Top_Normal'
+[2018.11.30-19.23.49:734][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Top_Normal'
+[2018.11.30-19.23.49:780][591]LogTexture: Display: Building textures: Sophia_Top_Normal (BC5, 1024X1024)
+[2018.11.30-19.23.49:844][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Top_Opacity'
+[2018.11.30-19.23.49:844][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Top_Opacity'
+[2018.11.30-19.23.49:864][591]LogTexture: Display: Building textures: Sophia_Top_Opacity (AutoDXT, 1024X1024)
+[2018.11.30-19.23.49:919][591]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
+[2018.11.30-19.23.49:990][591]LogFbx: Triangulating skeletal mesh Tops
+[2018.11.30-19.23.50:154][591]LogMaterial: Warning: Material /Game/Sophia/Mesh/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.11.30-19.23.50:158][591]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2018.11.30-19.23.50:204][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Hair_Diffuse'
+[2018.11.30-19.23.50:204][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Hair_Diffuse'
+[2018.11.30-19.23.50:242][591]LogTexture: Display: Building textures: Sophia_Hair_Diffuse (AutoDXT, 1024X1024)
+[2018.11.30-19.23.50:636][591]LogShaderCompilers: Display: Shaders left to compile 291
+[2018.11.30-19.23.50:636][591]LogShaderCompilers: Display: Shaders left to compile 281
+[2018.11.30-19.23.50:644][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Hair_Specular'
+[2018.11.30-19.23.50:645][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Hair_Specular'
+[2018.11.30-19.23.50:663][591]LogTexture: Display: Building textures: Sophia_Hair_Specular (AutoDXT, 1024X1024)
+[2018.11.30-19.23.50:722][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Hair_Gloss'
+[2018.11.30-19.23.50:723][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Hair_Gloss'
+[2018.11.30-19.23.50:741][591]LogTexture: Display: Building textures: Sophia_Hair_Gloss (AutoDXT, 1024X1024)
+[2018.11.30-19.23.50:844][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Hair_Normal'
+[2018.11.30-19.23.50:844][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Hair_Normal'
+[2018.11.30-19.23.50:867][591]LogTexture: Display: Building textures: Sophia_Hair_Normal (BC5, 1024X1024)
+[2018.11.30-19.23.50:928][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Hair_Opacity'
+[2018.11.30-19.23.50:929][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Hair_Opacity'
+[2018.11.30-19.23.50:960][591]LogTexture: Display: Building textures: Sophia_Hair_Opacity (AutoDXT, 1024X1024)
+[2018.11.30-19.23.51:081][591]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
+[2018.11.30-19.23.51:149][591]LogFbx: Triangulating skeletal mesh Hair
+[2018.11.30-19.23.51:377][591]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2018.11.30-19.23.52:473][591]LogSkeletalMesh: Section 0: 13915 vertices, 48 active bones
+[2018.11.30-19.23.52:474][591]LogSkeletalMesh: Section 1: 1330 vertices, 8 active bones
+[2018.11.30-19.23.52:474][591]LogSkeletalMesh: Section 2: 2969 vertices, 12 active bones
+[2018.11.30-19.23.52:474][591]LogSkeletalMesh: Section 3: 2672 vertices, 7 active bones
+[2018.11.30-19.23.52:478][591]LogSkeletalMesh: Section 0: Material=0, 25007 triangles
+[2018.11.30-19.23.52:478][591]LogSkeletalMesh: Section 1: Material=1, 2204 triangles
+[2018.11.30-19.23.52:478][591]LogSkeletalMesh: Section 2: Material=2, 5146 triangles
+[2018.11.30-19.23.52:478][591]LogSkeletalMesh: Section 3: Material=3, 3677 triangles
+[2018.11.30-19.23.52:482][591]LogSkeletalMesh: Building Skeletal Mesh Sophia...
+[2018.11.30-19.23.52:594][591]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/Sophia/Mesh/Sophia.Sophia
+[2018.11.30-19.23.52:615][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Skeleton'
+[2018.11.30-19.23.52:616][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Skeleton'
+[2018.11.30-19.23.52:618][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_PhysicsAsset'
+[2018.11.30-19.23.52:618][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_PhysicsAsset'
+[2018.11.30-19.23.52:653][591]LogFbx: =================================================
+[2018.11.30-19.23.52:653][591]LogFbx: Dumping Node START [Eyelashes] 
+[2018.11.30-19.23.52:653][591]LogFbx: 	Total Deformer Count -2082376768.
+[2018.11.30-19.23.52:653][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:653][591]LogFbx: =================================================
+[2018.11.30-19.23.52:653][591]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2018.11.30-19.23.52:653][591]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.11.30-19.23.52:653][591]LogFbx: Dumping Node END [Eyelashes]
+[2018.11.30-19.23.52:653][591]LogFbx: =================================================
+[2018.11.30-19.23.52:653][591]LogFbx: Dumping Node START [default] 
+[2018.11.30-19.23.52:653][591]LogFbx: 	Total Deformer Count -2082246760.
+[2018.11.30-19.23.52:653][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:653][591]LogFbx: =================================================
+[2018.11.30-19.23.52:653][591]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.11.30-19.23.52:653][591]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.11.30-19.23.52:653][591]LogFbx: Dumping Node END [default]
+[2018.11.30-19.23.52:653][591]LogFbx: =================================================
+[2018.11.30-19.23.52:653][591]LogFbx: Dumping Node START [Body] 
+[2018.11.30-19.23.52:653][591]LogFbx: 	Total Deformer Count -2093062528.
+[2018.11.30-19.23.52:653][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:653][591]LogFbx: =================================================
+[2018.11.30-19.23.52:653][591]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.11.30-19.23.52:653][591]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.11.30-19.23.52:653][591]LogFbx: Dumping Node END [Body]
+[2018.11.30-19.23.52:653][591]LogFbx: =================================================
+[2018.11.30-19.23.52:653][591]LogFbx: Dumping Node START [Shoes] 
+[2018.11.30-19.23.52:653][591]LogFbx: 	Total Deformer Count -2093062528.
+[2018.11.30-19.23.52:653][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:653][591]LogFbx: =================================================
+[2018.11.30-19.23.52:653][591]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.11.30-19.23.52:653][591]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.11.30-19.23.52:653][591]LogFbx: Dumping Node END [Shoes]
+[2018.11.30-19.23.52:653][591]LogFbx: =================================================
+[2018.11.30-19.23.52:654][591]LogFbx: Dumping Node START [Tops] 
+[2018.11.30-19.23.52:654][591]LogFbx: 	Total Deformer Count -2093062528.
+[2018.11.30-19.23.52:654][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:654][591]LogFbx: =================================================
+[2018.11.30-19.23.52:654][591]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.11.30-19.23.52:654][591]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.11.30-19.23.52:654][591]LogFbx: Dumping Node END [Tops]
+[2018.11.30-19.23.52:654][591]LogFbx: =================================================
+[2018.11.30-19.23.52:654][591]LogFbx: Dumping Node START [Hair] 
+[2018.11.30-19.23.52:654][591]LogFbx: 	Total Deformer Count -2093062528.
+[2018.11.30-19.23.52:654][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:654][591]LogFbx: =================================================
+[2018.11.30-19.23.52:654][591]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.11.30-19.23.52:654][591]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.11.30-19.23.52:654][591]LogFbx: Dumping Node END [Hair]
+[2018.11.30-19.23.52:654][591]LogFbx: =================================================
+[2018.11.30-19.23.52:654][591]LogFbx: Dumping Node START [Eyelashes] 
+[2018.11.30-19.23.52:654][591]LogFbx: 	Total Deformer Count -2082384000.
+[2018.11.30-19.23.52:654][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:654][591]LogFbx: =================================================
+[2018.11.30-19.23.52:654][591]LogFbx: 	Attribute (Eyelashesmesh) Type (4).
+[2018.11.30-19.23.52:654][591]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.11.30-19.23.52:654][591]LogFbx: Dumping Node END [Eyelashes]
+[2018.11.30-19.23.52:654][591]LogFbx: =================================================
+[2018.11.30-19.23.52:654][591]LogFbx: Dumping Node START [default] 
+[2018.11.30-19.23.52:654][591]LogFbx: 	Total Deformer Count -2082246816.
+[2018.11.30-19.23.52:654][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:654][591]LogFbx: =================================================
+[2018.11.30-19.23.52:654][591]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.11.30-19.23.52:654][591]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.11.30-19.23.52:654][591]LogFbx: Dumping Node END [default]
+[2018.11.30-19.23.52:654][591]LogFbx: =================================================
+[2018.11.30-19.23.52:654][591]LogFbx: Dumping Node START [Body] 
+[2018.11.30-19.23.52:654][591]LogFbx: 	Total Deformer Count -2093062528.
+[2018.11.30-19.23.52:654][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:654][591]LogFbx: =================================================
+[2018.11.30-19.23.52:654][591]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.11.30-19.23.52:655][591]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.11.30-19.23.52:655][591]LogFbx: Dumping Node END [Body]
+[2018.11.30-19.23.52:655][591]LogFbx: =================================================
+[2018.11.30-19.23.52:655][591]LogFbx: Dumping Node START [Shoes] 
+[2018.11.30-19.23.52:655][591]LogFbx: 	Total Deformer Count -2093062528.
+[2018.11.30-19.23.52:655][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:655][591]LogFbx: =================================================
+[2018.11.30-19.23.52:655][591]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.11.30-19.23.52:655][591]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.11.30-19.23.52:655][591]LogFbx: Dumping Node END [Shoes]
+[2018.11.30-19.23.52:655][591]LogFbx: =================================================
+[2018.11.30-19.23.52:655][591]LogFbx: Dumping Node START [Tops] 
+[2018.11.30-19.23.52:655][591]LogFbx: 	Total Deformer Count -2093062528.
+[2018.11.30-19.23.52:655][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:655][591]LogFbx: =================================================
+[2018.11.30-19.23.52:655][591]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.11.30-19.23.52:655][591]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.11.30-19.23.52:655][591]LogFbx: Dumping Node END [Tops]
+[2018.11.30-19.23.52:655][591]LogFbx: =================================================
+[2018.11.30-19.23.52:655][591]LogFbx: Dumping Node START [Hair] 
+[2018.11.30-19.23.52:655][591]LogFbx: 	Total Deformer Count -2093062528.
+[2018.11.30-19.23.52:655][591]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.11.30-19.23.52:655][591]LogFbx: =================================================
+[2018.11.30-19.23.52:655][591]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.11.30-19.23.52:655][591]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.11.30-19.23.52:655][591]LogFbx: Dumping Node END [Hair]
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(0) Hips
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(1) Spine
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(2) Spine1
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(3) Spine2
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(4) Neck
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(5) Head
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(6) RightEye
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(7) LeftEye
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(8) HeadTop_End
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(10) LeftArm
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(12) LeftHand
+[2018.11.30-19.23.52:657][591]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(33) RightShoulder
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(34) RightArm
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(35) RightForeArm
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(36) RightHand
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(37) RightHandPinky1
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(38) RightHandPinky2
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(39) RightHandPinky3
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(40) RightHandPinky4
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(41) RightHandRing1
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(42) RightHandRing2
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(43) RightHandRing3
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(44) RightHandRing4
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(49) RightHandIndex1
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(50) RightHandIndex2
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(51) RightHandIndex3
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(52) RightHandIndex4
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(53) RightHandThumb1
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(54) RightHandThumb2
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(55) RightHandThumb3
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(56) RightHandThumb4
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(57) LeftUpLeg
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(58) LeftLeg
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(59) LeftFoot
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(60) LeftToeBase
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(61) LeftToe_End
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(62) RightUpLeg
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(63) RightLeg
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(64) RightFoot
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(65) RightToeBase
+[2018.11.30-19.23.52:658][591]LogFbx: SortedLinks :(66) RightToe_End
+[2018.11.30-19.23.52:660][591]LogFbx: Parsing AnimStack mixamo.com
+[2018.11.30-19.23.52:663][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Anim'
+[2018.11.30-19.23.52:663][591]LogLinker: Can't find file '/Game/Sophia/Mesh/Sophia_Anim'
+[2018.11.30-19.23.52:678][591]LogShaderCompilers: Display: Shaders left to compile 298
+[2018.11.30-19.23.52:794][591]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sophia/Mesh/Sophia_Anim.Sophia_Anim
+[2018.11.30-19.23.52:795][591]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Sophia_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.30-19.23.52:801][591]LogSkeletalMesh: Building Skeletal Mesh Sophia...
+[2018.11.30-19.23.52:914][591]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/Sophia/Mesh/Sophia.Sophia
+[2018.11.30-19.23.52:936][591]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.11.30-19.23.52:936][591]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:RightEye  
+mixamorig:LeftEye  
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky4  
+mixamorig:RightHandPinky4  
+mixamorig:RightHandRing4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandThumb4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.11.30-19.23.52:936][591]FBXImport: Warning: Warning skeletal mesh influence count of 10 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0.007 
+[2018.11.30-19.23.52:947][591]LogSkeletalMesh: Building Skeletal Mesh Sophia...
+[2018.11.30-19.23.53:051][591]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Sophia/Mesh/Sophia.Sophia
+[2018.11.30-19.23.53:906][609]LogShaderCompilers: Display: Shaders left to compile 288
+[2018.11.30-19.23.54:313][625]LogShaderCompilers: Display: Shaders left to compile 278
+[2018.11.30-19.23.55:395][695]LogShaderCompilers: Display: Shaders left to compile 268
+[2018.11.30-19.23.56:916][790]LogShaderCompilers: Display: Shaders left to compile 258
+[2018.11.30-19.23.57:782][860]LogSlate: Window 'Message Log' being destroyed
+[2018.11.30-19.23.57:787][860]LogSlate: Window 'Message Log' being destroyed
+[2018.11.30-19.23.57:887][867]LogShaderCompilers: Display: Shaders left to compile 248
+[2018.11.30-19.23.58:819][921]LogShaderCompilers: Display: Shaders left to compile 238
+[2018.11.30-19.23.58:883][924]LogShaderCompilers: Display: Shaders left to compile 228
+[2018.11.30-19.24.00:718][ 26]LogShaderCompilers: Display: Shaders left to compile 218
+[2018.11.30-19.24.02:346][135]LogShaderCompilers: Display: Shaders left to compile 208
+[2018.11.30-19.24.02:643][158]LogShaderCompilers: Display: Shaders left to compile 198
+[2018.11.30-19.24.03:270][208]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.11.30-19.24.16:441][286]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.11.30-19.24.16:441][286]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.11.30-19.24.16:441][286]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.11.30-19.24.16:441][286]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.11.30-19.24.16:441][286]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.11.30-19.24.16:441][286]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.11.30-19.24.16:442][286]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.11.30-19.24.16:442][286]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.11.30-19.24.16:442][286]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.11.30-19.24.16:442][286]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.11.30-19.24.16:442][286]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.11.30-19.24.16:442][286]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.30-19.24.16:442][286]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.30-19.24.16:442][286]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.30-19.24.16:442][286]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-19.24.17:481][286]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-19.24.18:181][286]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-19.24.19:531][286]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-19.24.21:820][286]LogSlate: Window 'Message' being destroyed
+[2018.11.30-19.24.21:830][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Body_Diffuse.png)
+[2018.11.30-19.24.25:650][286]LogSlate: Window 'Message' being destroyed
+[2018.11.30-19.24.25:758][286]LogTexture: Display: Building textures: Sophia_Body_Diffuse (AutoDXT, 2048X2048)
+[2018.11.30-19.24.26:515][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Body_Gloss.png)
+[2018.11.30-19.24.26:596][286]LogTexture: Display: Building textures: Sophia_Body_Gloss (AutoDXT, 2048X2048)
+[2018.11.30-19.24.27:468][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Body_Normal.png)
+[2018.11.30-19.24.27:584][286]LogTexture: Display: Building textures: Sophia_Body_Normal (BC5, 2048X2048)
+[2018.11.30-19.24.27:795][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Body_Opacity.png)
+[2018.11.30-19.24.27:843][286]LogTexture: Display: Building textures: Sophia_Body_Opacity (AutoDXT, 2048X2048)
+[2018.11.30-19.24.28:041][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Body_Specular.png)
+[2018.11.30-19.24.28:120][286]LogTexture: Display: Building textures: Sophia_Body_Specular (AutoDXT, 2048X2048)
+[2018.11.30-19.24.28:668][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Hair_Diffuse.png)
+[2018.11.30-19.24.28:696][286]LogTexture: Display: Building textures: Sophia_Hair_Diffuse (AutoDXT, 1024X1024)
+[2018.11.30-19.24.29:028][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Hair_Gloss.png)
+[2018.11.30-19.24.29:041][286]LogTexture: Display: Building textures: Sophia_Hair_Gloss (AutoDXT, 1024X1024)
+[2018.11.30-19.24.29:142][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Hair_Normal.png)
+[2018.11.30-19.24.29:163][286]LogTexture: Display: Building textures: Sophia_Hair_Normal (BC5, 1024X1024)
+[2018.11.30-19.24.29:225][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Hair_Opacity.png)
+[2018.11.30-19.24.29:244][286]LogTexture: Display: Building textures: Sophia_Hair_Opacity (AutoDXT, 1024X1024)
+[2018.11.30-19.24.29:352][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Hair_Specular.png)
+[2018.11.30-19.24.29:364][286]LogTexture: Display: Building textures: Sophia_Hair_Specular (AutoDXT, 1024X1024)
+[2018.11.30-19.24.29:425][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Shoes_Diffuse.png)
+[2018.11.30-19.24.29:458][286]LogTexture: Display: Building textures: Sophia_Shoes_Diffuse (AutoDXT, 1024X1024)
+[2018.11.30-19.24.29:755][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Shoes_Gloss.png)
+[2018.11.30-19.24.29:781][286]LogTexture: Display: Building textures: Sophia_Shoes_Gloss (AutoDXT, 1024X1024)
+[2018.11.30-19.24.29:923][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Shoes_Normal.png)
+[2018.11.30-19.24.29:961][286]LogTexture: Display: Building textures: Sophia_Shoes_Normal (BC5, 1024X1024)
+[2018.11.30-19.24.30:029][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Shoes_Opacity.png)
+[2018.11.30-19.24.30:044][286]LogTexture: Display: Building textures: Sophia_Shoes_Opacity (AutoDXT, 1024X1024)
+[2018.11.30-19.24.30:102][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Shoes_Specular.png)
+[2018.11.30-19.24.30:124][286]LogTexture: Display: Building textures: Sophia_Shoes_Specular (AutoDXT, 1024X1024)
+[2018.11.30-19.24.30:211][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Top_Diffuse.png)
+[2018.11.30-19.24.30:243][286]LogTexture: Display: Building textures: Sophia_Top_Diffuse (AutoDXT, 1024X1024)
+[2018.11.30-19.24.30:516][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Top_Gloss.png)
+[2018.11.30-19.24.30:541][286]LogTexture: Display: Building textures: Sophia_Top_Gloss (AutoDXT, 1024X1024)
+[2018.11.30-19.24.30:645][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Top_Normal.png)
+[2018.11.30-19.24.30:682][286]LogTexture: Display: Building textures: Sophia_Top_Normal (BC5, 1024X1024)
+[2018.11.30-19.24.30:746][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Top_Opacity.png)
+[2018.11.30-19.24.30:762][286]LogTexture: Display: Building textures: Sophia_Top_Opacity (AutoDXT, 1024X1024)
+[2018.11.30-19.24.30:816][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/Apollon Arquivos/Sophia.fbm/Sophia_Top_Specular.png)
+[2018.11.30-19.24.30:836][286]LogTexture: Display: Building textures: Sophia_Top_Specular (AutoDXT, 1024X1024)
+[2018.11.30-19.24.30:967][287]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (37.778 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.11.30-19.24.41:408][ 19]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Sophia/Mesh/Sophia.Sophia
+[2018.11.30-19.24.41:459][ 19]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.30-19.24.41:942][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.30-19.24.41:944][ 19]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.11.30-19.24.41:991][ 19]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.30-19.24.42:383][ 19]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.11.30-19.24.44:809][186]LogSlate: Took 0.030636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.30-19.24.45:215][226]LogSlate: Window 'Sophia*' being destroyed
+[2018.11.30-19.24.46:723][337]LogAssetEditorManager: Opening Asset editor for Material /Game/Sophia/Mesh/Bodymat.Bodymat
+[2018.11.30-19.24.46:728][337]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.24.46:847][337]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.24.46:900][337]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.24.46:961][337]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.11.30-19.24.46:961][337]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.11.30-19.24.46:961][337]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.11.30-19.24.46:961][337]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.11.30-19.24.46:978][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-19.24.46:986][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.11.30-19.24.46:995][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-19.24.47:005][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.30-19.24.47:013][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.30-19.24.47:088][337]LogSlate: Took 0.028290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.30-19.24.47:310][338]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.11.30-19.24.47:310][338]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.11.30-19.24.47:347][339]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.11.30-19.24.47:347][339]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.11.30-19.24.47:455][346]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.11.30-19.24.47:503][349]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.11.30-19.24.47:758][364]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.11.30-19.24.47:802][367]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.11.30-19.24.47:863][371]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.11.30-19.24.48:200][389]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.11.30-19.24.48:216][390]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.11.30-19.24.48:273][392]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.11.30-19.24.48:554][403]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.11.30-19.24.48:621][408]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.11.30-19.24.48:636][409]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.11.30-19.24.48:725][415]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.11.30-19.24.48:962][428]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.11.30-19.24.49:233][443]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.30-19.24.49:251][444]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.11.30-19.24.49:505][460]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.11.30-19.24.49:548][463]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.30-19.24.49:702][472]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.11.30-19.24.49:702][472]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.11.30-19.24.49:955][488]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.30-19.24.50:009][492]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.30-19.24.50:110][500]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.30-19.24.50:221][506]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.30-19.24.50:387][516]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.30-19.24.50:418][518]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.11.30-19.24.50:433][519]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.30-19.24.50:574][528]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.30-19.24.50:617][531]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.30-19.24.50:658][534]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.30-19.24.50:703][537]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.30-19.24.50:982][553]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.30-19.24.51:059][558]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.30-19.24.51:073][559]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.30-19.24.51:388][578]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.30-19.24.51:449][582]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.30-19.24.51:493][585]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.30-19.24.51:714][598]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.30-19.24.51:822][605]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.30-19.24.51:835][606]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.30-19.24.51:893][610]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.30-19.24.52:157][627]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.30-19.24.52:290][637]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.30-19.24.52:366][642]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.30-19.24.52:432][647]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.30-19.24.52:640][660]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.30-19.24.52:801][671]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.30-19.24.52:905][679]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.30-19.24.52:905][679]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.30-19.24.53:111][693]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-19.24.53:350][706]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.30-19.24.53:374][708]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-19.24.53:387][709]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.30-19.24.53:554][719]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.30-19.24.53:574][721]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.30-19.24.53:691][729]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.30-19.24.53:752][733]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.30-19.24.53:784][735]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.30-19.24.53:830][738]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.30-19.24.54:094][752]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-19.24.54:165][757]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.30-19.24.54:178][758]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-19.24.54:493][779]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.30-19.24.54:493][779]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.30-19.24.54:586][786]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.30-19.24.54:813][801]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.30-19.24.54:870][805]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-19.24.54:884][806]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-19.24.54:968][812]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-19.24.55:183][825]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-19.24.55:355][837]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-19.24.55:446][843]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-19.24.55:528][849]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-19.24.55:650][857]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-19.24.55:876][870]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-19.24.55:897][871]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-19.24.56:006][878]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-19.24.56:200][890]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-19.24.56:290][895]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-19.24.56:350][899]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-19.24.56:448][905]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-19.24.56:594][914]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-19.24.56:647][918]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-19.24.56:698][922]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-19.24.56:863][932]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-19.24.56:896][933]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-19.24.56:898][933]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-19.24.56:898][933]MaterialEditorStats: Base pass shader: 71 instructions
+[2018.11.30-19.24.56:898][933]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2018.11.30-19.24.56:898][933]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.11.30-19.24.56:898][933]MaterialEditorStats: Base pass vertex shader: 162 instructions
+[2018.11.30-19.24.56:898][933]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.30-19.24.56:898][933]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2018.11.30-19.24.56:898][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-19.24.57:016][940]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-19.24.57:127][946]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-19.25.01:957][450]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.02:018][451]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.11.30-19.25.02:018][451]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.11.30-19.25.02:018][451]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.11.30-19.25.02:018][451]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.11.30-19.25.02:182][462]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.11.30-19.25.02:195][463]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.11.30-19.25.02:208][464]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.11.30-19.25.02:219][465]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.11.30-19.25.02:311][472]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.11.30-19.25.02:359][476]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.11.30-19.25.02:593][491]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.11.30-19.25.02:630][494]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.30-19.25.02:658][496]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.11.30-19.25.02:975][519]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.11.30-19.25.02:987][520]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.30-19.25.03:019][522]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.03:062][522]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.30-19.25.03:066][522]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.03:111][522]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.03:253][526]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.30-19.25.03:298][529]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.30-19.25.03:298][529]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.30-19.25.03:338][532]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.30-19.25.03:483][541]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.30-19.25.03:543][545]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.30-19.25.03:543][545]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.30-19.25.03:555][546]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.30-19.25.03:661][553]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.30-19.25.03:709][556]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.30-19.25.03:722][557]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.30-19.25.03:736][558]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.30-19.25.03:837][565]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.30-19.25.03:988][574]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.30-19.25.04:120][583]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.30-19.25.04:160][586]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.30-19.25.04:246][592]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.30-19.25.04:353][599]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.30-19.25.04:411][603]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.30-19.25.04:590][616]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-19.25.04:602][617]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.30-19.25.04:689][624]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-19.25.04:759][629]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.30-19.25.04:841][634]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.30-19.25.04:923][640]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.30-19.25.04:982][644]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.30-19.25.04:995][645]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.30-19.25.05:063][650]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.30-19.25.05:128][654]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.30-19.25.05:195][658]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-19.25.05:211][659]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.30-19.25.05:259][662]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-19.25.05:498][676]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.30-19.25.05:553][680]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.30-19.25.05:649][687]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.30-19.25.05:664][688]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.30-19.25.05:830][699]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-19.25.05:930][705]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-19.25.06:092][716]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-19.25.06:106][717]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-19.25.06:138][719]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-19.25.06:292][729]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-19.25.06:377][734]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-19.25.06:393][734]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-19.25.06:506][742]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-19.25.06:539][744]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-19.25.06:581][747]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-19.25.06:609][749]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-19.25.06:704][755]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-19.25.06:720][756]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-19.25.06:762][759]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-19.25.06:975][771]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-19.25.07:014][774]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-19.25.07:121][782]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-19.25.07:178][784]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-19.25.07:293][793]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-19.25.07:391][799]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-19.25.07:543][809]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-19.25.07:557][810]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-19.25.07:714][821]LogMaterialEditor: Saving and Compiling material Bodymat
+[2018.11.30-19.25.08:123][821]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.08:190][821]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.30-19.25.08:190][821]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.30-19.25.08:190][821]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.30-19.25.08:190][821]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.30-19.25.08:196][821]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.08:244][821]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.08:313][821]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.11.30-19.25.12:066][821]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-19.25.12:067][821]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-19.25.12:070][821]TextureStreamingBuild: Display: Compiling optional shaders took 3.766 seconds.
+[2018.11.30-19.25.16:307][821]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-19.25.16:307][821]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-19.25.16:365][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sophia/Mesh/Bodymat" FILE="E:/Uwpgf/Dynamesh/Content/Sophia/Mesh/Bodymat.uasset" SILENT=true
+[2018.11.30-19.25.16:383][821]LogSavePackage: Moving 'E:/Uwpgf/Dynamesh/Saved/Bodymat56C35882479D7328AE82BF963DB3EF97.tmp' to 'E:/Uwpgf/Dynamesh/Content/Sophia/Mesh/Bodymat.uasset'
+[2018.11.30-19.25.16:404][821]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.11.30-19.25.16:404][821]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2018.11.30-19.25.16:404][821]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-19.25.16:404][821]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2018.11.30-19.25.16:404][821]MaterialEditorStats: Texture samplers: 7/16
+[2018.11.30-19.25.16:404][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2018.11.30-19.25.16:404][821]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-19.25.20:219][228]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.20:247][228]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (4 / 4)
+[2018.11.30-19.25.20:295][229]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.30-19.25.20:295][229]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.30-19.25.20:295][229]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.30-19.25.20:295][229]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.30-19.25.20:489][242]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.30-19.25.20:504][243]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.30-19.25.20:515][244]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.30-19.25.20:516][244]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.30-19.25.20:665][254]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.30-19.25.20:679][255]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.30-19.25.20:692][256]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.30-19.25.20:719][258]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.30-19.25.20:842][266]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.30-19.25.20:986][274]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.30-19.25.21:108][279]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.30-19.25.21:140][281]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.30-19.25.21:243][287]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.30-19.25.21:356][293]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.30-19.25.21:423][297]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.30-19.25.21:614][309]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-19.25.21:614][309]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.30-19.25.21:709][315]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-19.25.21:819][320]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.30-19.25.21:866][323]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.30-19.25.21:961][329]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.30-19.25.22:027][333]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.30-19.25.22:042][334]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.30-19.25.22:101][338]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.30-19.25.22:170][342]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.30-19.25.22:246][347]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-19.25.22:260][348]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.30-19.25.22:317][352]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-19.25.22:560][367]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.30-19.25.22:606][370]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.30-19.25.22:685][376]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.30-19.25.22:737][379]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.30-19.25.22:881][388]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-19.25.23:011][396]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-19.25.23:134][404]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-19.25.23:163][406]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-19.25.23:224][410]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-19.25.23:395][420]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-19.25.23:425][422]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-19.25.23:466][425]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-19.25.23:541][430]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-19.25.23:631][436]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-19.25.23:646][437]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-19.25.23:671][437]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-19.25.23:744][442]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-19.25.23:823][447]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-19.25.23:841][448]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-19.25.24:086][461]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-19.25.24:100][462]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-19.25.24:172][467]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-19.25.24:241][472]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-19.25.24:356][478]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-19.25.24:549][487]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-19.25.24:608][490]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-19.25.24:638][493]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-19.25.24:984][515]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.11.30-19.25.24:984][515]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2018.11.30-19.25.24:984][515]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.11.30-19.25.24:984][515]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2018.11.30-19.25.24:984][515]MaterialEditorStats: Texture samplers: 6/16
+[2018.11.30-19.25.24:984][515]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.11.30-19.25.24:984][515]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.30-19.25.31:467][154]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.31:500][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.11.30-19.25.31:505][154]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.30-19.25.31:505][154]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.30-19.25.31:505][154]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.30-19.25.31:505][154]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.30-19.25.31:531][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-19.25.31:539][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-19.25.31:546][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.30-19.25.31:555][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.30-19.25.31:562][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.11.30-19.25.31:586][154]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.31:632][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.11.30-19.25.31:671][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-19.25.31:680][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-19.25.31:688][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.30-19.25.31:695][154]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.30-19.25.31:695][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.30-19.25.31:703][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.11.30-19.25.31:710][154]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.30-19.25.31:710][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.11.30-19.25.31:730][154]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.30-19.25.31:734][154]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-19.25.31:734][154]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.31:774][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.11.30-19.25.31:808][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-19.25.31:817][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-19.25.31:827][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.30-19.25.31:835][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.30-19.25.31:847][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.11.30-19.25.31:856][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.11.30-19.25.31:865][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.11.30-19.25.31:887][154]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.31:929][154]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-19.25.31:929][154]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-19.25.31:929][154]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-19.25.31:933][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.11.30-19.25.31:970][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-19.25.31:979][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-19.25.31:986][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.30-19.25.31:993][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.30-19.25.32:002][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.11.30-19.25.32:010][154]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.30-19.25.32:010][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.11.30-19.25.32:017][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.11.30-19.25.32:024][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.11.30-19.25.32:051][154]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.32:105][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.11.30-19.25.32:143][154]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.30-19.25.32:143][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.11.30-19.25.32:153][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.11.30-19.25.32:163][154]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.30-19.25.32:163][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.11.30-19.25.32:170][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.11.30-19.25.32:177][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.11.30-19.25.32:185][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.11.30-19.25.32:194][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.11.30-19.25.32:203][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.11.30-19.25.32:210][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.11.30-19.25.32:291][155]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.30-19.25.32:291][155]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.11.30-19.25.32:330][156]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.11.30-19.25.32:371][158]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.30-19.25.32:429][162]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.11.30-19.25.32:446][163]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.11.30-19.25.32:514][167]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.30-19.25.32:541][167]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.30-19.25.32:590][171]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.30-19.25.32:605][172]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.30-19.25.32:687][177]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.30-19.25.32:837][184]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.11.30-19.25.32:949][190]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.30-19.25.33:000][193]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.30-19.25.33:093][198]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.30-19.25.33:192][204]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.30-19.25.33:266][208]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.30-19.25.33:424][217]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.30-19.25.33:441][218]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.30-19.25.33:581][226]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.30-19.25.33:639][229]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.30-19.25.33:677][231]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.30-19.25.33:797][238]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.30-19.25.33:812][239]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.30-19.25.33:873][243]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.30-19.25.33:902][245]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.30-19.25.34:017][251]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.30-19.25.34:032][252]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.30-19.25.34:079][255]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.30-19.25.34:094][256]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.30-19.25.34:346][270]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.30-19.25.34:448][277]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.30-19.25.34:481][279]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.30-19.25.34:512][281]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.30-19.25.34:718][293]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.30-19.25.34:755][295]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-19.25.34:889][303]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.30-19.25.34:947][307]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-19.25.34:963][308]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.30-19.25.35:118][317]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.30-19.25.35:208][323]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.30-19.25.35:208][323]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.30-19.25.35:287][328]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.30-19.25.35:342][331]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.30-19.25.35:385][334]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.30-19.25.35:417][336]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-19.25.35:467][339]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.30-19.25.35:512][342]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-19.25.35:555][345]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.30-19.25.35:772][356]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.30-19.25.35:833][360]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.30-19.25.35:880][363]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.30-19.25.35:942][367]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-19.25.36:091][375]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-19.25.36:195][381]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-19.25.36:318][388]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-19.25.36:336][389]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-19.25.36:424][394]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-19.25.36:550][401]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-19.25.36:581][403]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-19.25.36:708][409]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-19.25.36:714][409]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.36:760][409]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-19.25.36:847][410]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.30-19.25.36:874][411]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.11.30-19.25.36:941][415]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.11.30-19.25.37:033][421]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.30-19.25.37:051][422]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.11.30-19.25.37:168][429]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.30-19.25.37:207][431]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.30-19.25.37:297][436]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.30-19.25.37:327][438]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.11.30-19.25.37:438][445]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.11.30-19.25.37:469][447]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.30-19.25.37:583][454]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.11.30-19.25.37:599][455]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.30-19.25.37:705][462]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.30-19.25.37:743][463]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.30-19.25.37:847][469]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.30-19.25.37:907][473]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.30-19.25.37:941][475]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.30-19.25.37:986][478]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.30-19.25.38:084][484]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.30-19.25.38:101][485]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.30-19.25.38:114][486]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.30-19.25.38:156][489]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.30-19.25.38:250][495]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.30-19.25.38:264][496]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.30-19.25.38:292][498]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.30-19.25.38:515][510]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.30-19.25.38:520][510]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2018.11.30-19.25.38:563][510]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.30-19.25.38:663][513]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.11.30-19.25.38:677][514]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.30-19.25.38:793][522]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.30-19.25.38:886][528]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.30-19.25.38:900][529]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.11.30-19.25.38:915][530]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.11.30-19.25.38:972][534]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.30-19.25.39:064][540]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.11.30-19.25.39:092][542]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.30-19.25.39:104][543]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.30-19.25.39:104][543]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.11.30-19.25.39:217][551]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.30-19.25.39:332][558]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.30-19.25.39:477][568]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.30-19.25.39:519][571]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.30-19.25.39:608][577]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.11.30-19.25.39:694][583]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.30-19.25.39:739][586]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.11.30-19.25.39:924][598]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.30-19.25.39:940][599]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.30-19.25.40:048][607]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.11.30-19.25.40:094][610]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.30-19.25.40:189][616]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.30-19.25.40:273][622]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.30-19.25.40:301][624]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.30-19.25.40:355][628]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.11.30-19.25.40:397][631]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.30-19.25.40:468][636]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.30-19.25.40:496][638]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.30-19.25.40:549][642]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.30-19.25.40:591][645]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.11.30-19.25.40:820][659]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.30-19.25.40:873][663]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.30-19.25.40:912][666]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.30-19.25.40:965][670]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.11.30-19.25.41:124][680]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.11.30-19.25.41:229][687]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.30-19.25.41:328][694]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.30-19.25.41:367][697]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.30-19.25.41:427][701]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.30-19.25.41:574][710]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.30-19.25.41:645][715]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.30-19.25.41:645][715]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.30-19.25.41:716][720]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.30-19.25.41:780][724]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.30-19.25.41:840][728]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.30-19.25.41:853][729]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.30-19.25.41:897][732]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.30-19.25.41:954][736]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.30-19.25.42:008][740]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.30-19.25.42:216][753]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.30-19.25.42:232][754]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.30-19.25.42:301][759]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.30-19.25.42:390][765]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.30-19.25.42:467][770]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.30-19.25.42:624][780]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.30-19.25.42:707][786]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.30-19.25.42:707][786]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.30-19.25.43:057][813]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.11.30-19.25.43:057][813]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.11.30-19.25.43:057][813]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.11.30-19.25.43:057][813]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2018.11.30-19.25.43:057][813]MaterialEditorStats: Texture samplers: 3/16
